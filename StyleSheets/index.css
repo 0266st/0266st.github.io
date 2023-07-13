@@ -5,7 +5,6 @@
     background-image:url(../img/content_background.jpeg);
     filter: blur(20);
     background-repeat:no-repeat;
-    background-size:cover;
     background-position: center center;
 }
 .wrapper .container{
