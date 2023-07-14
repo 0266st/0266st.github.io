@@ -43,7 +43,7 @@ body {
 	line-height: 2;		/*行間*/
 }
 
-body:before{
+.bg1:before{
 	background: url(../images/background.jpeg);
 	filter: blur(8px);
 	position: absolute;
