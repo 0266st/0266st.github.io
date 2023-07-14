@@ -86,6 +86,8 @@ section {
 ---------------------------------------------------------------------------*/
 .bg1 {
 	background-color: #121212;
+	background: url(../images/background.jpeg);
+	filter: blur(10);
 }
 
 .bg2 {
