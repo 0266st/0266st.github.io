@@ -43,9 +43,9 @@ body {
 	line-height: 2;		/*行間*/
 }
 
-.bg1:before{
+body:before{
 	background: url(../images/background.jpeg);
-	filter: blur(8px);
+	filter: blur(4px) brightness(5%);
 	position: absolute;
     top: -3px;
     bottom: -3px;
