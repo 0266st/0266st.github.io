@@ -41,6 +41,8 @@ body {
 	background: #222;	/*背景色*/
 	color: #ccc;		/*全体の文字色*/
 	line-height: 2;		/*行間*/
+	background: url(../images/background.jpeg);
+	filter: blur(8px);
 }
 
 /*リセット*/
@@ -86,8 +88,6 @@ section {
 ---------------------------------------------------------------------------*/
 .bg1 {
 	background-color: #121212;
-	background: url(../images/background.jpeg);
-	filter: blur(10);
 }
 
 .bg2 {
