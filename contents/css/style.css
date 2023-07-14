@@ -45,7 +45,7 @@ body {
 
 body:before{
 	background: url(../images/background.jpeg);
-	filter: blur(4px);
+	filter: blur(8px);
 	position: absolute;
     top: -3px;
     bottom: -3px;
