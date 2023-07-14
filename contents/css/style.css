@@ -41,8 +41,18 @@ body {
 	background: #222;	/*背景色*/
 	color: #ccc;		/*全体の文字色*/
 	line-height: 2;		/*行間*/
+}
+
+body:before{
 	background: url(../images/background.jpeg);
 	filter: blur(8px);
+	position: absolute;
+    top: -3px;
+    bottom: -3px;
+    left: -3px;
+    right: -3px;
+    filter: blur(3px);
+    z-index: -1;
 }
 
 /*リセット*/
